@@ -1,2 +1,2 @@
 # machine_learning
-mini-projects using Machine learning models
+Learning machine Learning by applying them on Projects
